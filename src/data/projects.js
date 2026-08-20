@@ -8,33 +8,33 @@
 const projects = [
   {
     number: "01",
-    title: "[PROJECT 1 NAME]",
-    description: "[PROJECT DESCRIPTION]",
-    objective: "[WHAT PROBLEM DID THIS PROJECT ADDRESS?]",
-    contribution: "[WHAT DID I CREATE / DO?]",
-    technologies: ["[TECHNOLOGY]", "[AI TOOL]", "[OTHER TOOL]"],
-    skills: ["[SKILL]", "[SKILL]", "[SKILL]"],
-    image: "/images/project-1.jpg"
+    title: "Student Management System",
+    description: "A platform where students , lecturers and admin can communicate in the interest of the student ",
+    objective: "",
+    contribution: "Requirements Analysis, Project Design and Implementation , Backend code, Frontend code",
+    technologies: ["AMPPS", "VSCode",""],
+    skills: ["Database Design and implementation", "PHP backend programming", "HTML and CSS frontend"],
+    image: ""
   },
   {
     number: "02",
-    title: "[PROJECT 2 NAME]",
-    description: "[PROJECT DESCRIPTION]",
-    objective: "[WHAT PROBLEM DID THIS PROJECT ADDRESS?]",
-    contribution: "[WHAT DID I CREATE / DO?]",
-    technologies: ["[TECHNOLOGY]", "[AI TOOL]", "[OTHER TOOL]"],
-    skills: ["[SKILL]", "[SKILL]", "[SKILL]"],
-    image: "/images/project-2.jpg"
+    title: "Hospital Management System",
+    description: "A platform where patients can manage appointments, doctors can manage their schedules and medical records are kept",
+    objective: "",
+    contribution: "Requirements Analysis, Project Design and Implementation , Backend code, Frontend code",
+    technologies: ["AMPPS", "[VSCode]", ""],
+    skills: ["Database Design and implementation", "PHP backend programming", "HTML and CSS frontend"],
+    image: ""
   },
   {
     number: "03",
-    title: "[PROJECT 3 NAME]",
-    description: "[PROJECT DESCRIPTION]",
-    objective: "[WHAT PROBLEM DID THIS PROJECT ADDRESS?]",
-    contribution: "[WHAT DID I CREATE / DO?]",
-    technologies: ["[TECHNOLOGY]", "[AI TOOL]", "[OTHER TOOL]"],
-    skills: ["[SKILL]", "[SKILL]", "[SKILL]"],
-    image: "/images/project-3.jpg"
+    title: "Library Management System",
+    description: "An online version of a library where users can borrow, read and return books",
+    objective: "",
+    contribution: "Requurements Analysis, Java Code/UI, Database design and implementation",
+    technologies: ["MySQL Workbench", "Java", "IntelliJ IDE"],
+    skills: ["Database design and implementation", "Connecting Java to MySQL via JDBC", ""],
+    image: ""
   }
 ];
 
