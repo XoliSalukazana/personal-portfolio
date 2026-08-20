@@ -22,11 +22,13 @@ const profile = {
   },
 
   about: {
-    background: "Strong background in Java, MySQL ",
-    interests: "Backend Java , AWS Cloud ",
-    learningFocus: "Backend Java , SpringBoot",
-    careerGoals: "My current goals include expanding my knowledge on Java in relation to backend and the Cloud"
+    background: "Recent graduate, built a Hospital Management System with PHP,MySQL,HTML,CSS and Javascript for managing and synchronizing doctor's schedules with patient appointments",
+    interests: "AWS Cloud Infrastructure, Cloud Security",
+    learningFocus: "AWS Cloud Practioner Training, AI for productivity",
+    motivation: "Motivated by building practical solutions and understanding how things really work under the hood. As a recent graduate, I would like to turn academic knowledge into real-world products. ",
+    careerGoals: "Strengthen foundations in Java and SpringBoot in a production environment"
   },
+
 
   skills: {
     technical: [
@@ -48,7 +50,6 @@ const profile = {
       "Adaptability",
       "Collaboration",
       "Time Management",
-      "Creativity",
       "Continuous Learning"
     
     ]
@@ -56,19 +57,29 @@ const profile = {
 
   education: [
     {
+      qualification: "National Senior Certificate",
+      institution: "Glenharvie Combined",
+      dates: "2015 – 2019",
+      areas: "",
+      description: ""
+    }
+  ],
+
+  education: [
+    {
       qualification: "Diploma in Systems Development",
       institution: "Boston City Campus",
       dates: "2022 – 2026",
       areas: "Information Systems, Software Development, Object-Oriented Programming, Database Design and SQL",
-      description: "[SHORT DESCRIPTION]"
+      description: ""
     }
   ],
 
   currentLearning: {
-    programme: "AI Skills Training",
-    provider: "Capaciti",
-    date: "2026",
-    description: "Prompt Engineering"
+    programme: "",
+    provider: "",
+    date: "",
+    description: ""
   },
 
   professionalDevelopment: {
@@ -76,23 +87,31 @@ const profile = {
       "",
     entries: [
       {
-        title: "",
-        organisation: "",
-        date:"",
-        description: ""
+        title: "AI Skills Programme",
+        organisation: "Capaciti",
+        date:"2026",
+        description: "AI Fundamentals, AI Ethics, Prompt Engineering"
       },
+
       {
-        title: "",
-        organisation: "",
-        date: "",
-        description: ""
+        title: "AWS re/Start",
+        organisation: "Praesignis",
+        date: "2026",
+        description: "AWS Cloud Practitioner Essentials Training"
+      },
+
+       {
+        title: "Cybersecurity Virtual Internship",
+        organisation: "MWR Consulting",
+        date: "2026",
+        description: "Web Security Basics"
       }
     ]
   },
 
   contact: {
     invitation:
-      "I’m always open to connecting and learning opportunities in technology."
+      "I’m always open to development and learning opportunities in software development, cloud technologies and cybersecurity."
   }
 };
 
