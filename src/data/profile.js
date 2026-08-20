@@ -6,40 +6,40 @@
 // ============================================================
 
 const profile = {
-  name: "[YOUR NAME]",
-  initials: "[YN]",
-  title: "[YOUR PROFESSIONAL TITLE]",
-  location: "[YOUR LOCATION]",
-  email: "[YOUR EMAIL]",
-  github: "[YOUR GITHUB URL]",
-  linkedin: "[YOUR LINKEDIN URL]",
+  name: "Xoliswa Salukazana",
+  initials: "X.S",
+  title: "Junior Software Developer",
+  location: "Johannesburg",
+  email: "xoliswasalukazana@gmail.com",
+  github: "https://github.com/XoliSalukazana/personal-portfolio/",
+  linkedin: "https://www.linkedin.com/in/xoliswa-salukazana-ba361742b/",
   cv: "/cv/my-cv.pdf",
 
   hero: {
-    eyebrow: "AI Skills Trainee | [YOUR FIELD / AREA OF INTEREST]",
+    eyebrow: "Junior Java Developer | Software Engineering",
     introduction:
-      "[WRITE A SHORT PROFESSIONAL INTRODUCTION ABOUT WHO YOU ARE, WHAT YOU ARE LEARNING, AND WHAT YOU ARE CURRENTLY FOCUSED ON.]"
+      "I am a recent Diploma in Systems Development Graduate. with a good foundation in software development, database design and, systems analysis fundamentals"
   },
 
   about: {
-    background: "[YOUR BACKGROUND]",
-    interests: "[YOUR PROFESSIONAL INTERESTS]",
-    learningFocus: "[YOUR CURRENT LEARNING FOCUS]",
-    motivation: "[WHAT MOTIVATES YOU]",
-    careerGoals: "[YOUR CAREER GOALS]"
+    background: "Strong background in Java, MySQL ",
+    interests: "Backend Java , AWS Cloud ",
+    learningFocus: "Backend Java , SpringBoot",
+    careerGoals: "My current goals include expanding my knowledge on Java in relation to backend and the Cloud"
   },
 
   skills: {
     technical: [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Prompt Engineering",
-      "AI Tools",
-      "Digital Tools",
-      "Automation",
-      "Data Analysis",
-      "Research",
-      "[OTHER TECHNICAL SKILL]"
+      " Programming Languages: Java",
+      "SQL",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Software/Tools: IntelliJ IDE",
+      "MS365",
+      "AMPPS",
+      "VSCode"
+      
     ],
     soft: [
       "Communication",
@@ -49,50 +49,50 @@ const profile = {
       "Collaboration",
       "Time Management",
       "Creativity",
-      "Continuous Learning",
-      "[OTHER SOFT SKILL]"
+      "Continuous Learning"
+    
     ]
   },
 
   education: [
     {
-      qualification: "[QUALIFICATION / COURSE NAME]",
-      institution: "[INSTITUTION]",
-      dates: "[START YEAR – END YEAR]",
-      areas: "[RELEVANT SUBJECTS OR AREAS OF STUDY]",
+      qualification: "Diploma in Systems Development",
+      institution: "Boston City Campus",
+      dates: "2022 – 2026",
+      areas: "Information Systems, Software Development, Object-Oriented Programming, Database Design and SQL",
       description: "[SHORT DESCRIPTION]"
     }
   ],
 
   currentLearning: {
-    programme: "[AI TRAINING PROGRAMME NAME]",
-    provider: "[TRAINING PROVIDER]",
-    date: "[DATE / YEAR]",
-    description: "[SHORT DESCRIPTION OF WHAT YOU ARE LEARNING]"
+    programme: "AI Skills Training",
+    provider: "Capaciti",
+    date: "2026",
+    description: "Prompt Engineering"
   },
 
   professionalDevelopment: {
     statement:
-      "[EDIT THIS STATEMENT TO DESCRIBE HOW YOU ARE BUILDING YOUR PROFESSIONAL EXPERIENCE THROUGH TRAINING, PROJECTS, INDEPENDENT LEARNING, AND CONTINUOUS DEVELOPMENT.]",
+      "",
     entries: [
       {
-        title: "[CURRENT AI TRAINING]",
-        organisation: "[TRAINING PROVIDER]",
-        date: "[DATE]",
-        description: "[SHORT DESCRIPTION]"
+        title: "",
+        organisation: "",
+        date:"",
+        description: ""
       },
       {
-        title: "[ROLE / EXPERIENCE]",
-        organisation: "[ORGANISATION]",
-        date: "[DATE]",
-        description: "[DESCRIPTION]"
+        title: "",
+        organisation: "",
+        date: "",
+        description: ""
       }
     ]
   },
 
   contact: {
     invitation:
-      "I’m always open to connecting, learning, and discussing opportunities in technology and AI."
+      "I’m always open to connecting and learning opportunities in technology."
   }
 };
 
